@@ -83,19 +83,19 @@ Esta aplicación móvil permite a una comunidad local organizar, asistir y comen
 ## Mockups y Documentación
 
 - Diseños (Figma): [[Enlace aquí](https://www.figma.com/design/kBAfQ46fAUb1iLGsRVlcwC/Proyecto-DPS)]
-- Tablero de Tareas (Trello): [Enlace aquí](https://trello.com/invite/b/674e80bdc7ce2eb45fba8496/ATTI2574ae07befeaf7f25d42f0578b6e63cB0A50F35/reactnative-dps)]
-- Manual de Usuario: [Enlace aquí](https://drive.google.com/file/d/1BNcN6TK5IEIn3_f7jj36um4nm7I5ZXDr/view?usp=sharing)]
-- Manual Técnico: [Enlace aquí](https://drive.google.com/file/d/1sVquNKFvziqBLp8w9mkdXgw3pRVscXSa/view?usp=sharing)]
+- Tablero de Tareas (Trello): [[Enlace aquí](https://trello.com/invite/b/674e80bdc7ce2eb45fba8496/ATTI2574ae07befeaf7f25d42f0578b6e63cB0A50F35/reactnative-dps)]
+- Manual de Usuario: [[Enlace aquí](https://drive.google.com/file/d/1BNcN6TK5IEIn3_f7jj36um4nm7I5ZXDr/view?usp=sharing)]
+- Manual Técnico: [[Enlace aquí](https://drive.google.com/file/d/1sVquNKFvziqBLp8w9mkdXgw3pRVscXSa/view?usp=sharing)]
+- Video demostrativo de las funcionalidades: [[Enlace aquí](https://youtu.be/t0pLwA0-qB4)]
 
 ## Contacto y Contribuciones
 
 **Colaboradores (Roles Scrum):**
 
-- Nelson Vicente Luna Hernández: Product Owner
-- Henry Vladimir Nájera Guerra: Scrum Master
-- Jonathan Rafael Señora Reyes: Desarrollo
-- Jarly Leonel Vigil Velásquez: Desarrollo
-
+- Nelson Vicente Luna Hernández LH150774, : Product Owner
+- Henry Vladimir Nájera Guerra NG110680, : Scrum Master
+- Jonathan Rafael Señora Reyes SR232918, : Desarrollo
+- Jarly Leonel Vigil Velásquez VV233222, : Desarrollo
 Se aceptan contribuciones mediante pull requests, issues y sugerencias.
 
 ## Referencias
