@@ -96,6 +96,7 @@ Esta aplicación móvil permite a una comunidad local organizar, asistir y comen
 - Henry Vladimir Nájera Guerra NG110680, : Scrum Master
 - Jonathan Rafael Señora Reyes SR232918, : Desarrollo
 - Jarly Leonel Vigil Velásquez VV233222, : Desarrollo
+
 Se aceptan contribuciones mediante pull requests, issues y sugerencias.
 
 ## Referencias
